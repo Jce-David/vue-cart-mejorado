@@ -1,0 +1,86 @@
+[
+    {
+      "name": "Babuchas Hugs Classic",
+      "price": 79,
+      "id": 1,
+      "colors": [ "#76533D" , "#b68155", "#413f46"],
+      "images": [
+        "/babuchas-classic/marron-bajo-1.png",
+        "/babuchas-classic/habano-bajo-1.png",
+        "/babuchas-classic/negro-bajo-1.png"
+      ],
+      "description": "Descripción del producto 1",
+      "talla": [
+        "36",
+        "37",
+        "38",                                                                                                           
+        "39",
+        "41"
+    ],
+      "categoryId": 1
+    },
+    {
+        "name": "Media Luna Con Borde",
+        "price": 99,
+        "id": 2,
+        "colors": [ "#b68155","#76533D", "#413f46"],
+        "images": [
+            "/slippers-border/slippers-habano-borde.png",
+            "/slippers-border/slippers-marron-borde.png",
+            "/slippers-border/slippers-negro-borde.png"
+        ],
+        "description": "Descripción del producto 1",
+        "talla": [
+          "36",
+          "37",
+          "38",                                                                                                     
+          "39",
+          "41"
+      ],
+        "categoryId": 2
+      },
+      {
+        "name": "Media Luna Hugs",
+        "price": 79,
+        "id": 3,
+        "colors": [ "#b68155","#76533D" , "#413f46"],
+        "images": [
+
+            "/slippers/habano-slippers.png",
+            "/slippers/marron-slippers.png",
+            "/slippers/negro-slippers.png"
+        ],
+        "description": "Descripción del producto 1",
+        "talla": [
+          "36",
+          "37",
+          "38",                                                                                                           
+          "39",
+          "41"
+      ],
+        "categoryId": 2
+      },
+    {
+      "name": "Babuchas Hugs classic Alto",
+      "price": 129,
+      "id": 4,
+      "colors": ["#E6E3D7","#76533D", "#b68155", "#413f46", "#91a15a","#65656f", "#e5c6bc", "#229b9c", "#8f82ab"],
+      "images": [
+        "/productos/beige-alto-1.png",
+        "/productos/marron-alto-1.png",
+        "/productos/habano-alto-1.png",
+        "/productos/negro-alto-1.png",
+        "/productos/verde-alto-1.png",
+        "/productos/plomo-alto-1.png",
+        "/productos/rosado-alto-1.png",
+        "/productos/celeste-alto-1.png",
+        "/productos/lila-alto-1.png"
+      ],
+      "description": "Descripción del producto 2",
+      "talla": ["S", "M", "L"],
+      "categoryId": 1
+    }
+
+
+  ]
+  
